@@ -1,5 +1,5 @@
 
-TODO App: Privacy policy
+# TODO App: Privacy policy
 Welcome to the TODO app for Android!
 
 This is an open source Android app developed by Vivek Vashistha. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
