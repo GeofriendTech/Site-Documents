@@ -10,6 +10,9 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 This app is supports Google Assistance actions. So that user can directly interact with app via Google Assistant on their device. Following Built-in Action intents has been used:-
 
-```actions.intent.GET_THING```
+```
+actions.intent.GET_THING
+actions.intent.START_EXERCISE
+```
 
 Feel free to contact at vivek.vashistha@geofriend.in
