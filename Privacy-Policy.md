@@ -1,6 +1,6 @@
 
-# TODO App: Privacy policy
-Welcome to the TODO app for Android!
+# Privacy policy
+This Privacy Policy is applicable to TODO App, FitActions App which are published on Play Store : 
 
 This is an open source Android app developed by Vivek Vashistha. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
 
